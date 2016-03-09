@@ -13,6 +13,7 @@ A record of what I've learnt in periods of 12 weeks
 - Express: General tutorials on building an Express app
 - Hapi.shot: how to simulate authorisation requests
 - [Hapi Auth Basic example](https://github.com/Jbarget/basic-hapi-auth)
+- [Hapi oAuth Example](https://github.com/Jbarget/oauth-example)
 
 
 
