@@ -14,6 +14,7 @@ A record of what I've learnt in periods of 12 weeks
 - Hapi.shot: how to simulate authorisation requests
 - [Hapi Auth Basic example](https://github.com/Jbarget/basic-hapi-auth)
 - [Hapi oAuth Example](https://github.com/Jbarget/oauth-example)
+- [Basic React + Alt.js (Flux) Counter](https://github.com/mantagen/react-altjs-example-0)
 
 
 
