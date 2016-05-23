@@ -1,7 +1,7 @@
 # My Learning
 A record of what I've learnt in periods of 12 weeks
 
-### 22nd Feb - 16th May 2016:
+### 22nd Feb - 15th May 2016:
 
 - Express: General tutorials on building an Express app
 - Hapi.shot: how to simulate authorisation requests
@@ -26,6 +26,11 @@ A record of what I've learnt in periods of 12 weeks
   - Tape: epic user story integration tests
   - Mocha + Chai React Testing: testing react components and lifecycle methods
   - Class-based OOP with ES6 classes
+  - [jsdom](https://github.com/tmpvar/jsdom)
     
+### 16th May - 7th August 2016:
 
+####Projects
 
+**Odysseon:**
+  - [Async](https://github.com/caolan/async)
