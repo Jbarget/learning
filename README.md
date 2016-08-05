@@ -15,7 +15,7 @@ A record of what I've learnt in periods of 12 weeks
   - [React Router](https://github.com/reactjs/react-router)
   - AWS: introduction into load balancers, queuing systems (rabbit)
   - Docker: introduction to docker
-  - [Webpack](https://github.com/webpack)
+  - [Webpack configuration](https://github.com/webpack)
 
 ### 22nd Feb - 15th May 2016:
 
