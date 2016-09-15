@@ -1,6 +1,17 @@
 # My Learning
 A record of what I've learnt in periods of 12 weeks
 
+### 8th August - 30th November 2016:
+
+####Projects
+
+**Authored:**
+  - [Draft JS](https://facebook.github.io/draft-js/)
+  - [Grid Systems](http://roylee0704.github.io/react-flexbox-grid/)
+  - [Immutable Data with ImmutableJS](https://facebook.github.io/immutable-js/)
+  - [AWS Lambda](https://github.com/dwyl/learn-aws-lambda)
+  - [AWS S3](http://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html)
+
 ### 16th May - 7th August 2016:
   - [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/): [Talk by Harry Roberts](https://www.youtube.com/watch?v=1OKZOV-iLj4)
   - [BEM css](https://css-tricks.com/bem-101/)
