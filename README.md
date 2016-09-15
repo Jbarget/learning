@@ -3,6 +3,8 @@ A record of what I've learnt in periods of 12 weeks
 
 ### 8th August - 30th November 2016:
 
+- [Remote working in Sweden](https://github.com/dwyl/remote-working/issues/8#issuecomment-246621363)
+
 ####Projects
 
 **Authored:**
