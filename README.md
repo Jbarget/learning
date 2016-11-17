@@ -13,6 +13,11 @@ A record of what I've learnt in periods of 12 weeks
   - [Immutable Data with ImmutableJS](https://facebook.github.io/immutable-js/)
   - [AWS Lambda](https://github.com/dwyl/learn-aws-lambda)
   - [AWS S3](http://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html)
+  
+**[Donald Chomp](https://donald-chomp.firebaseapp.com/):**
+  - [HTML5 Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+  - [Responsive Canvas Game](http://blog.sklambert.com/responsive-html5-canvas-game/)
+  
 
 ### 16th May - 7th August 2016:
   - [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/): [Talk by Harry Roberts](https://www.youtube.com/watch?v=1OKZOV-iLj4)
