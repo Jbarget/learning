@@ -4,12 +4,14 @@ A record of what I've learnt in periods of 12 weeks
 ### 8th August - 30th November 2016:
 
 - [Remote working in Sweden](https://github.com/dwyl/remote-working/issues/8#issuecomment-246621363)
+- [Angular2 basic app](https://github.com/Jbarget/angular-webpack-starter)
+- [An overview of Observables](https://medium.com/@benlesh/redux-observable-ec0b00d2eb52#.ckjixc42e)
 
 ####Projects
 
 **Authored:**
   - [Draft JS](https://facebook.github.io/draft-js/)
-  - [Grid Systems](http://roylee0704.github.io/react-flexbox-grid/)
+  - Grid Systems
   - [Immutable Data with ImmutableJS](https://facebook.github.io/immutable-js/)
   - [AWS Lambda](https://github.com/dwyl/learn-aws-lambda)
   - [AWS S3](http://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html)
