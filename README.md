@@ -1,6 +1,17 @@
 # My Learning
 A record of what I've learnt in periods of 12 weeks
 
+### 1st December - 23rd Feb 2017:
+
+####Projects
+
+- [React Native Setup](https://github.com/Jbarget/reactNativeShooter)
+
+**Authored:**
+
+**[Gitodoro](https://github.com/gitodoro/gitodoro):**
+  - [Rollup](http://rollupjs.org/)
+  
 ### 8th August - 30th November 2016:
 
 - [Remote working in Sweden](https://github.com/dwyl/remote-working/issues/8#issuecomment-246621363)
