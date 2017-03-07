@@ -1,6 +1,14 @@
 # My Learning
 A record of what I've learnt in periods of 12 weeks
 
+### 24th Feb - 19th May 2017:
+
+####Projects
+
+- [Elixir Cards](https://github.com/Jbarget/elixir-cards) - following [Udemy course](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/learn/v4/)
+- Phoenix (Elixir server-side framework) - working my way through [Programming Phoenix](http://shop.oreilly.com/product/9781680501452.do)
+
+
 ### 1st December - 23rd Feb 2017:
 
 ####Projects
